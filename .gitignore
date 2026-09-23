@@ -1,0 +1,6 @@
+.claude/
+figures-data.backup-*.js
+*.pdf
+SPEECH.md
+Speech-complet*.txt
+audio/SCRIPTS-AVATAR-elevenlabs.txt
